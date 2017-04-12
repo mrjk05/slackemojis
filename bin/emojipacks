@@ -1,0 +1,33 @@
+#!/usr/bin/env node
+
+var program = require('commander');
+var Prompt = require('../lib/prompt');
+var Slack = require('../lib/slack');
+var Pack = require('../lib/pack');
+var co = require('co');
+
+/**
+ * Usage.
+ */
+
+program
+  .version(require('../package').version)
+  .option('-d, --debug', 'Run in debug mode')
+  .option('-s, --subdomain [value]', 'Your Slack subdomain')
+  .option('-e, --email [value]', 'Admin email address')
+  .option('-p, --password [value]', 'Password for admin email')
+  .option('-y, --pack [value]', 'YAML emoji pack')
+  .parse(process.argv);
+
+/**
+ * Start process.
+ */
+
+co(function *() {
+  var user = yield Prompt.start(program.subdomain, program.email, program.password, program.pack);
+  var pack = yield Pack.get(user.pack);
+  user.emojis = pack.emojis;
+  var slack = new Slack(user, program.debug);
+  yield slack.import();
+  process.exit();
+});
