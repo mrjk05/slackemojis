@@ -1,0 +1,102 @@
+title: workbench
+emojis:
+  - name: allthethings
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/all_the_things.jpg
+  - name: angular
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/angular.png
+  - name: appleinc
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/applinc.png
+  - name: areyoukiddingme
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/areyoukiddingme.png
+  - name: aw_yeah
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/aw_yeah.gif
+  - name: awwyeah
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/awwyeah.png
+  - name: carlton
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/carlton.gif
+  - name: challenge_accepted
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/challenge_accepted.jpg
+  - name: charmander_dancing
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/charmander_dancing.gif
+  - name: chrome
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/chrome.png
+  - name: clapping
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/clapping.gif
+  - name: cool
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/cool.gif
+  - name: darth_maul
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/darth_maul.gif
+  - name: darth_vader
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/darth_vader.png
+  - name: docker
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/docker.png
+  - name: done
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/done.gif
+  - name: empire
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/empire.png
+  - name: epic_win
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/epic_win.png
+  - name: facepalm
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/facepalm.gif
+  - name: fb-angry
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/fb-angry.gif
+  - name: fb-heart
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/fb-heart.gif
+  - name: fb-laugh
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/fb-laugh.gif
+  - name: fb-like
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/fb-like.gif
+  - name: fb-sad
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/fb-sad.gif
+  - name: fb-wow
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/fb-wow.gif
+  - name: goomba
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/goomba.gif
+  - name: happy_obama
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/happy_obama.png
+  - name: i_see_what_you_did_there
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/i_see_what_you_did_there.png
+  - name: imposibru
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/imposibru.png
+  - name: lel
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/lel.png
+  - name: look-of-disapproval
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/look-of-disapproval.gif
+  - name: mario
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/mario.gif
+  - name: not_sure
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/not_sure.jpg
+  - name: nyancat_big
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/nyancat_big.gif
+  - name: pokeball
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/pokeball.png
+  - name: powerup
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/powerup.gif
+  - name: r2d2
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/r2d2.png
+  - name: rage
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/rage.jpg
+  - name: rainbow_puke
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/rainbow_puke.jpg
+  - name: rebel
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/rebel.png
+  - name: seriously
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/seriously.png
+  - name: starry
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/star.gif
+  - name: stormtrooper
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/stormtrooper.png
+  - name: success-kid
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/success-kid.png
+  - name: worst_ever
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/worst_ever.jpg
+  - name: x-wing
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/x-wing.png
+  - name: y_u_no
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/y_u_no.png
+  - name: yay
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/yay.gif
+  - name: zoidberg
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/zoidberg.jpg
+  - name: zombie
+    src: https://raw.githubusercontent.com/mrjk05/slackemojis/master/img/zombie.gif
